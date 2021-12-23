@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB
-- 😎 I'm a full stack developer with Java and angular with both sql anno sql db
+- 😎 I'm a full stack developer with Java and angular with both sql and no sql db
 - 👀 I’m interested in working with node js and bloackchain 
 - 🌱 I’m currently learning node js and blokchain
 - 💞️ I’m looking to collaborate on ...
