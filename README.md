@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=atifaftab&color=brightgreen)
 
 
+https://bio.link/atifaftab
+
+
 - 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB
 - 😎 I'm a full stack developer with Java and angular with both sql and no sql db
 - 👀 I’m interested in working with node js and bloackchain 
