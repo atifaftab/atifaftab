@@ -6,8 +6,8 @@ https://bio.link/atifaftab
 
 - 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB
 - 😎 I'm a full stack developer with Java and angular with both sql and no sql db
-- 👀 I’m interested in working with node js and bloackchain 
-- 🌱 I’m currently learning React js, node js and blokchain
+- 👀 I’m interested in working with node js and blockchain 
+- 🌱 I’m currently learning React js, node js and blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iamatif96@gmail.com
 
