@@ -5,7 +5,8 @@ https://bio.link/atifaftab
 
 
 - 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB
-- 😎 I'm a full stack developer with Java and angular with both sql and no sql db
+- 😎 I'm a full stack developer using tech stack microservices
+- 🔥 tech stacks :  spring boot, react, Angular, sqldb and nosqldb
 - 👀 I’m interested in working with node js and blockchain 
 - 🌱 I’m currently learning React js, node js and blockchain
 - 💞️ I’m looking to collaborate on ...
