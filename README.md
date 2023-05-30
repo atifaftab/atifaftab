@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=atifaftab&color=brightgreen)
-
+![](https://komarev.com/ghpvc/?username=atifaftab&color=brightgreen) [![Github](https://img.shields.io/github/followers/atifaftab?label=Followers&logo=Github)](https://github.com/atifaftab)
+[![Github Years Old](https://badges.pufler.dev/years/atifaftab?style=flat-round&logo=github&logoWidth=20&logoColor=white&labelColor=555555&color=blue&label=Years%20Old%20%20.&cacheSeconds=3600)](https://github.com/atifaftab)
 
 https://bio.link/atifaftab
 
