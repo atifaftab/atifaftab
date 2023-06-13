@@ -4,7 +4,7 @@
 https://bio.link/atifaftab
 
 
-- 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB
+- 👋 Hi, I’m @atifaftab,   MOHAMMAD ATIF AFTAB.
 - 😎 I'm a full stack developer using tech stack microservices
 - 🔥 tech stacks :  spring boot, react, Angular, sqldb and nosqldb
 - 👀 I’m interested in working with node js and blockchain 
